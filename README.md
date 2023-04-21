@@ -1,4 +1,9 @@
 ### Hi there 👋
+I'm interested in working in data analytics or data science. I'm currently selfing teaching on Python applications too, I am interested in app design. 
+Some other fun things I like to do in my free time include knitting, drawing, sewing, and painting. I love creativity and the ability to blend the left and right side of my brain! 
+
+📫 How to reach me:
+  - www.linkedin.com/in/lily-kingston-08
 
 <!--
 **lilyekingston/lilyekingston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
